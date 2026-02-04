@@ -1,36 +1,54 @@
-# UACH-Platform-Based-Development
+<p align="center"> <img src="./imgs/banner.png" alt="Banner" width="100%"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Spring+Boot+Assignments;Platform-Based+Development+@+UACH;Java+%26+Web+Development;" alt="Typing Animation" /> </p>
+About This Repository
 
-Coursework repository for the Platform-Based Development course at UACH. Each folder contains an independent Spring Boot assignment.
+This repository contains coursework for the Platform-Based Development course at UACH.
+Each folder represents an independent Spring Boot project, focused on understanding how modern platforms are built using Java, Maven, and Spring Boot.
 
-# RUN
+How to Run an Assignment
+
+Each assignment lives inside its own folder.
 
 ```bash
-cd {route}
+cd t1
 ./mvnw spring-boot:run
 ```
 
-# Getting Started
+Once running, open your browser at:
 
-### Reference Documentation
+```
+http://localhost:8080
 
-For further reference, please consider the following sections:
+```
 
-- [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-- [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/4.0.2/maven-plugin)
-- [Create an OCI image](https://docs.spring.io/spring-boot/4.0.2/maven-plugin/build-image.html)
-- [Spring Web](https://docs.spring.io/spring-boot/4.0.2/reference/web/servlet.html)
+Project Structure
 
-### Guides
+```text
+UACH-Platform-Based-Development
+├── t1
+│ ├── src
+│ ├── pom.xml
+│ └── mvnw
+├── t2
+├── t3
+└── README.md
+```
 
-The following guides illustrate how to use some features concretely:
+Each folder is self-contained and can be executed independently.
 
-- [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-- [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-- [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
-
-### Maven Parent overrides
-
-Due to Maven's design, elements are inherited from the parent POM to the project POM.
-While most of the inheritance is fine, it also inherits unwanted elements like `<license>` and `<developers>` from the parent.
-To prevent this, the project POM contains empty overrides for these elements.
-If you manually switch to a different parent and actually want the inheritance, you need to remove those overrides.
+<table>
+  <tr>
+    <td width="20%"><img src="https://media.tenor.com/wxhwrp30VkgAAAAi/ayaya-club-ayaya.gif" height="150"></td>
+    <td width="63%">
+      <pre>
+UACH-Platform-Based-Development
+├── t1
+│   ├── src
+│   ├── pom.xml
+│   └── mvnw
+├── t2
+└── README.md
+      </pre>
+    </td>
+    <td width="25%%"><img src="https://media.tenor.com/rAmtc_yaEIYAAAAi/firefly-hsr-firefly.gif" height="150"></td>
+  </tr>
+</table>
