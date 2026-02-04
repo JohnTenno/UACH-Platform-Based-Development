@@ -35,20 +35,20 @@ UACH-Platform-Based-Development
 
 Each folder is self-contained and can be executed independently.
 
-<table>
-  <tr>
-    <td width="20%"><img src="https://media.tenor.com/wxhwrp30VkgAAAAi/ayaya-club-ayaya.gif" height="150"></td>
-    <td width="63%">
-      <pre>
+
+<p align="center">
+  <img src="https://media.tenor.com/wxhwrp30VkgAAAAi/ayaya-club-ayaya.gif" height="150" align="left">
+  
+```
 UACH-Platform-Based-Development
 ├── t1
 │   ├── src
 │   ├── pom.xml
 │   └── mvnw
 ├── t2
+├── t3
 └── README.md
-      </pre>
-    </td>
-    <td width="25%%"><img src="https://media.tenor.com/rAmtc_yaEIYAAAAi/firefly-hsr-firefly.gif" height="150"></td>
-  </tr>
-</table>
+```
+
+  <img src="https://media1.tenor.com/m/Pf3NdLM_iLQAAAAd/hatsune-miku.gif" height="150" align="right">
+</p>
