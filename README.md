@@ -49,6 +49,3 @@ UACH-Platform-Based-Development
 ├── t3
 └── README.md
 ```
-
-  <img src="https://media1.tenor.com/m/Pf3NdLM_iLQAAAAd/hatsune-miku.gif" height="150" align="right">
-</p>
