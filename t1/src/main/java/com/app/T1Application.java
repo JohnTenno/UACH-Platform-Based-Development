@@ -1,4 +1,4 @@
-package com.t1.t1;
+package com.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

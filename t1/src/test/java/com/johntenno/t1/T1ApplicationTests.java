@@ -1,4 +1,4 @@
-package com.t1.t1;
+package com.johntenno.t1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
